@@ -2,6 +2,7 @@
 Puzzle game for the La Fortuna board
 
 Used Steve Gunn's library for drawing to the LCD
+
 Inspired by EpicPhill's FortunaTetris 
 
 #### Controls
