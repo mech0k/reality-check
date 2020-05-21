@@ -32,5 +32,5 @@ Inspired by EpicPhill's FortunaTetris
 
 ### Remarks
 * There is potential for extremely difficult puzzles.
-* The game's levels are relatively simplistic and going through all 10 levels should take at most several minutes.
+* The game's levels are relatively simplistic and going through all 10 levels should take no more than several minutes.
 * There was an attempt for a sinmple plot, but screen space limited the story to just a few sentences.
