@@ -14,7 +14,7 @@ Inspired by EpicPhill's FortunaTetris
 * Throughout different levels more mechanics are revealed 
 
 #### Known Bugs
-* Sometimes player moves 2 times on 1 click
+* Sometimes player moves 2 times per 1 click
 
 #### Expandability
 * The game itself can be easiliy expanded, since the code takes care of all the logic.
