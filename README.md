@@ -28,7 +28,7 @@ Inspired by EpicPhill's FortunaTetris
 * Teleports are Cyan
 * Restart Blocks / Killers are Purple
 * Move Blocks are Orange
-* Info Blocks / Portals are Yellowish
+* Info Blocks / Portals are Pinkish
 
 ### Remarks
 * There is potential for extremely difficult puzzles.
